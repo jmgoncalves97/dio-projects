@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Plus Filmes\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Plus Filmes\\.nuget\\packages"
+    ]
+  }
+}
