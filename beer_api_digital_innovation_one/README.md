@@ -1,3 +1,9 @@
+<h2>Modificações propostas pelo professor foram feitas no projeto original</h2>
+
+Nove testes foram descomentados e testados inicialmente com falha e após alterações (descritas a seguir), testadas com sucesso.<br/>
+Alguns faltando a classe abstrata MockMvcRequestBuilders antes de .patch().<br/>
+Nas classes BeerController e BeerService foi adicionado o método decrement() e no package one.digitalinnovation.beerstock.exception foi adicionado a classe extendida de Exception, DecrementGreaterThanCurrentStock.
+
 <h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
 Nesta live coding, vamos aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Vamos desenvolver testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, vamos também mostrar como desenvolver funcionalidades da nossa API através da prática do TDD.
